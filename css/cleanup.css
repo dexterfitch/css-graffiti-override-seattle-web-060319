@@ -12,4 +12,4 @@ body #wall .parent #tag-5.slick { display: none; }
 
 body #wall .parent + .parent div:last-child #tag-6 { display: none; }
 
-body #wall div.parent div:first-child > #tag-7.slick { display: none; }
+body #wall .parent + .parent > div:first-child > #tag-7.slick { display: none; }
